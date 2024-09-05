@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Devlopment and CP
 - - 💞️ I’m looking to collaborate on Devlopment Projects 
 - 📫 How to reach me @tarunmuragodnavar123@gmail.com
--                      https://www.linkedin.com/in/tarun-muragodnavar-40b80627b/
+-                     https://www.linkedin.com/in/tarun-muragodnavar/
 
 <!---
 XeRxEs02/XeRxEs02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
